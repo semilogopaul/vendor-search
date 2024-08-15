@@ -1,2 +1,2 @@
 # vendor-search
-A vendor-search app for extracting vendor data from excel files according to a schema designed by me and made for zeta-web nigeria limited
+A voluntary built vendor-search app for extracting vendor data from excel files and beautifully displaying them on the front-end according to a schema designed by me and made for zeta-web nigeria limited
